@@ -5,9 +5,9 @@
       "email" : "abcd@gmail.com" ,
       "Fullname" : "abdelrahman gad",
       "password" : "password",
-      "Your_title": 2131165336,
+      "Your_title": "student",
       "ID_Number": 2145241,
-      "Phone_Number": 01004578225,
+      "Phone_Number": "04117548320",
       "National_ID": 21478024593674
     },
     {
@@ -15,9 +15,9 @@
       "email" : "abcd@gmail.com" ,
       "Fullname" : "abdelrahman gad",
       "password" : "password",
-      "Your_title": 2131165336,
+      "Your_title": "spervisor",
       "ID_Number": 2145241,
-      "Phone_Number": 04118735228,
+      "Phone_Number": "01447563247",
       "National_ID": 21478024593674
     },
     {
@@ -25,9 +25,9 @@
       "email" : "abcd@gmail.com" ,
       "Fullname" : "abdelrahman gad",
       "password" : "password",
-      "Your_title": 2131165336,
+      "Your_title": "candidate",
       "ID_Number": 2145241,
-      "Phone_Number": 02214785645,
+      "Phone_Number": "01041478056",
       "National_ID": 21478024593674
     }
   ]
